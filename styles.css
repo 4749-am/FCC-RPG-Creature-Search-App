@@ -149,15 +149,6 @@ table {
   overflow: hidden;
 }
 
-th:nth-child(even),
-td:nth-child(even) {
-  border-left: 20px solid #f5f6f7;
-}
-
-tr {
-  border-bottom: 10px solid #f5f6f7;
-}
-
 td,
 th {
   text-align: center;
