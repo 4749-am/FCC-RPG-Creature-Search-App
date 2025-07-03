@@ -142,7 +142,6 @@ label {
 table {
   border-collapse: collapse;
   width: 100%;
-  font-size: 1 rem;
   color: #f5f6f7;
   background-color: #d1a701;
   border-radius: 10px;
@@ -160,7 +159,7 @@ th {
 }
 
 .fire {
-  background-color: #ff6f52;
+  background-color: #ff0000;
 }
 
 .water {
@@ -172,7 +171,7 @@ th {
 }
 
 .grass {
-  background-color: #78cc55;
+  background-color: #90ee90;
 }
 
 .ice {
